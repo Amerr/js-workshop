@@ -1,0 +1,14 @@
+{
+  "name": "js-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Amerr/js-workshop.git",
+  "author": "Amerr <amerrnath.21@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
